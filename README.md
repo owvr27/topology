@@ -1,8 +1,6 @@
 # topology
-Corporate Network Infrastructure Design Business
-Sure! Here’s the full README text you can copy and paste:
 
----
+
 
 📘 Corporate Network Design - README
 
